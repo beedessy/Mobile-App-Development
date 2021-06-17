@@ -5,12 +5,15 @@ Splash Screen,Launcher Screen,Registration and Login Screen
 ![image](https://user-images.githubusercontent.com/56188746/122443344-57aba000-cf54-11eb-9956-70f0d88af386.png)
 
 Navigation bar and Main Screen
+
 ![image](https://user-images.githubusercontent.com/56188746/122443504-845fb780-cf54-11eb-884d-3ddedc416e45.png)
 
 Main Screen and Product Details Screen
+
 ![image](https://user-images.githubusercontent.com/56188746/122443799-c5f06280-cf54-11eb-882d-04c19e120b70.png)
 
 Cart Screen
+
 ![image](https://user-images.githubusercontent.com/56188746/122443884-db658c80-cf54-11eb-8a7d-2cdac5d95c6a.png)
 
 Categories Screen
