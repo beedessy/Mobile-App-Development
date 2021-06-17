@@ -8,3 +8,5 @@ Kassprix is an e-commerce mobile app that allows users to make a purchase of our
 ![image](https://user-images.githubusercontent.com/56188746/122440201-31383580-cf51-11eb-989e-a0246e4798ba.png)![image](https://user-images.githubusercontent.com/56188746/122440271-3f865180-cf51-11eb-8ee6-bceee1347e92.png)
 
 
+
+
