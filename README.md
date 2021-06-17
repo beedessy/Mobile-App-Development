@@ -3,12 +3,8 @@ Kassprix is an e-commerce mobile app that allows users to make a purchase of our
 
 ![image](https://user-images.githubusercontent.com/56188746/122439792-cd157180-cf50-11eb-9aca-1d71aac2d72a.png)![image](https://user-images.githubusercontent.com/56188746/122439917-ecac9a00-cf50-11eb-9d2b-2a844ed5c0c2.png)
 
-![image](https://user-images.githubusercontent.com/56188746/122439999-fd5d1000-cf50-11eb-9534-53bf786c3de5.png)
+![image](https://user-images.githubusercontent.com/56188746/122439999-fd5d1000-cf50-11eb-9534-53bf786c3de5.png)![image](https://user-images.githubusercontent.com/56188746/122440085-15349400-cf51-11eb-8dfb-ab6dedeafa6a.png)
 
-![image](https://user-images.githubusercontent.com/56188746/122440085-15349400-cf51-11eb-8dfb-ab6dedeafa6a.png)
-
-![image](https://user-images.githubusercontent.com/56188746/122440201-31383580-cf51-11eb-989e-a0246e4798ba.png)
-
-![image](https://user-images.githubusercontent.com/56188746/122440271-3f865180-cf51-11eb-8ee6-bceee1347e92.png)
+![image](https://user-images.githubusercontent.com/56188746/122440201-31383580-cf51-11eb-989e-a0246e4798ba.png)![image](https://user-images.githubusercontent.com/56188746/122440271-3f865180-cf51-11eb-8ee6-bceee1347e92.png)
 
 
