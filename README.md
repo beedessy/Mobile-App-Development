@@ -39,13 +39,6 @@ Profile Screen with Camera interactive feature
 
 
 
-
-
-
-
-
-
-
 https://user-images.githubusercontent.com/56188746/147647317-416a5bd4-a9bb-4644-9343-21c5c8718cb1.mp4
 
 
